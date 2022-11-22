@@ -7,7 +7,7 @@
       "repositories": {
         "niccky77/test": {
           "permissions": {
-              "issues":"write"
+              "contents":"write"
           }
         }
       }
